@@ -23,16 +23,6 @@ By leveraging Artificial Intelligence, data-driven insights, and workflow automa
 - Monitor marketing performance through analytics and insights.
 - Improve marketing productivity through intelligent automation.
 
-## Target Industry
-
-Spectra Growth OS is primarily designed for businesses operating in the following sectors:
-
-- **Solar Energy:** Solar panel manufacturers, solar installation companies, and solar energy providers.
-- **Renewable Energy:** Businesses involved in clean energy production and sustainable energy solutions.
-- **Energy Infrastructure:** Companies providing energy infrastructure development and management services.
-- **Energy Services:** Organizations offering energy consulting, maintenance, and technical services.
-- **Power and Charging Solutions:** Businesses involved in power systems, EV charging infrastructure, and related technologies.
-
 ## Planned Modules
 
 ### 1. Company Intelligence
